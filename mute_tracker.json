@@ -1,0 +1,32 @@
+{
+    "1222535378": {
+        "username": "@gusagung6b",
+        "name": "Ida Bagus Agung Bajerapany",
+        "until": "2025-07-21T19:16:32",
+        "groups": {
+            "-1002754394243": {
+                "group_name": "GRUP TEST 4"
+            }
+        }
+    },
+    "1069348926": {
+        "username": "@akfiss",
+        "name": "Akbar Firdaus",
+        "until": "2025-07-21T19:17:16",
+        "groups": {
+            "-1002754394243": {
+                "group_name": "GRUP TEST 4"
+            }
+        }
+    },
+    "7551955889": {
+        "username": "Agus",
+        "name": "Agus Kurniawan",
+        "until": "2025-07-21T19:19:34",
+        "groups": {
+            "-1002639442552": {
+                "group_name": "GRUP TEST 3"
+            }
+        }
+    }
+}

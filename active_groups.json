@@ -1,0 +1,66 @@
+{
+    "-1002610781487": {
+        "group_name": "GRUP TEST 2",
+        "activated_by": "@cahyadiiyoga",
+        "date": "2025-06-03",
+        "time": "16:22:18 WIB",
+        "admins": [
+            {
+                "user_id": "8186428452",
+                "username": "@anti_judi_bot"
+            },
+            {
+                "user_id": "1632719740",
+                "username": "@cahyadiiyoga"
+            }
+        ]
+    },
+    "-1002639442552": {
+        "group_name": "GRUP TEST 3",
+        "activated_by": "@cahyadiiyoga",
+        "date": "2025-06-03",
+        "time": "16:30:29 WIB",
+        "admins": [
+            {
+                "user_id": "8186428452",
+                "username": "@anti_judi_bot"
+            },
+            {
+                "user_id": "1632719740",
+                "username": "@cahyadiiyoga"
+            }
+        ]
+    },
+    "-1002754394243": {
+        "group_name": "GRUP TEST 4",
+        "activated_by": "@cahyadiiyoga",
+        "date": "2025-06-07",
+        "time": "18:56:14 WIB",
+        "admins": [
+            {
+                "user_id": "8186428452",
+                "username": "@anti_judi_bot"
+            },
+            {
+                "user_id": "1632719740",
+                "username": "@cahyadiiyoga"
+            }
+        ]
+    },
+    "-1002358396067": {
+        "group_name": "GRUP TEST 1",
+        "activated_by": "@cahyadiiyoga",
+        "date": "2025-07-04",
+        "time": "09:20:45 WIB",
+        "admins": [
+            {
+                "user_id": "8186428452",
+                "username": "@anti_judi_bot"
+            },
+            {
+                "user_id": "1632719740",
+                "username": "@cahyadiiyoga"
+            }
+        ]
+    }
+}
